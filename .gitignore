@@ -1,0 +1,13 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore Composer lock file
+composer.lock
+
+# Ignore environment-specific files
+.env
+
+# Ignore any files generated during development or runtime
+.idea/
+.DS_Store
+.cache/

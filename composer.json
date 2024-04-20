@@ -1,0 +1,17 @@
+{
+    "name": "khangnhd/scanner-url",
+    "autoload": {
+        "psr-4": {
+            "Khangnhd\\ScannerUrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khang Nguyen",
+            "email": "khangnhd.it@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
