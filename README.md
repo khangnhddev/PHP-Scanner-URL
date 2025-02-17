@@ -23,4 +23,3 @@ A PHP library for scanning and analyzing URLs to check security, content, and po
 - Phishing indicators
 - Malware scanning
 
-## Installation
